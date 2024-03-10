@@ -21,7 +21,7 @@ setup(name='backtrader_binance',
       description='Binance API integration with Backtrader',
       long_description=long_description,
       long_description_content_type='text/markdown',
-      url='https://github.com/WISEPLAT/backtrader_binance',
+      url='https://github.com/rayturn/backtrader_binance.git',
       packages=find_packages(exclude=['docs', 'examples', 'ConfigBinance']),
       install_requires=['python-binance', 'backtrader', 'pandas', 'matplotlib'],
       classifiers=[
@@ -47,7 +47,7 @@ setup(name='backtrader_binance',
       ],
       keywords=['trading', 'development'],
       project_urls={
-          'Documentation': 'https://github.com/WISEPLAT/backtrader_binance/blob/master/README.md'
+          'Documentation': 'https://github.com/rayturn/backtrader_binance/blob/master/README.md'
       },
       python_requires='>=3.7'
       )

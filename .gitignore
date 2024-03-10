@@ -1,0 +1,4 @@
+
+backtrader_binance/__pycache__
+*.egg
+build
